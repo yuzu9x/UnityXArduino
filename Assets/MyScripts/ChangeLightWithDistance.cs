@@ -8,7 +8,7 @@ public class ChangeLightWithDistance : MonoBehaviour
     //created public variable for our light source 
     public Light lightSource; 
     public float minIntensity = 1.0f; //setting a lower limit so light doesn't completely turn off 
-    public float maxIntensity = 2.0f; //setting an upper limit so light doesn't get too bright; 
+    public float maxIntensity = 2.0f; //setting an upper limit so light doesn't get too bright; uh what th e hellll
 
     public float minDistance = 10f; // Closest distance the sensor detects
     public float maxDistance = 300f; // Farthest distance the sensor detects
